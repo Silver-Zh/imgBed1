@@ -1,2 +1,2 @@
 # imgBed1
-For PicGo
+For PicGo, uPic, XIaobai. 
